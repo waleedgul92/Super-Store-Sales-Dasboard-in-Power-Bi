@@ -5,3 +5,5 @@
   - Profit
   - Category
   - Sub-category
+# Demo Image
+![alt text](Sales.png)
